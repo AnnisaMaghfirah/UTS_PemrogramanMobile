@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UTS Annisa Maghfirah - DestiGo</string>
+    <string name="wisata_name">Nama Wisata</string>
+    <string name="wisata_location">Lokasi</string>
+    <string name="rating">Rating</string>
+    <string name="description">Deksripsi</string>
+</resources>
